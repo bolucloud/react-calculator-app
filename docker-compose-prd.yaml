@@ -3,4 +3,6 @@ services:
   calculator-app:
     build:
       context: .
-      dockerfile: Dockerfile.dev
+      dockerfile: Dockerfile.prd
+    ports:
+      - "8080:80"
