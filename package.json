@@ -1,5 +1,6 @@
 {
   "name": "react-calculator-app",
+  "homepage": "https://bolucloud.github.io/react-calculator-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
